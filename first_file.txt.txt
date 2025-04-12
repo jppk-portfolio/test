@@ -1,1 +1,2 @@
-Content of file A is empty.
+Content of file A is not empty.
+Second Commit
