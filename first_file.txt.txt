@@ -1,2 +1,4 @@
 Content of file A is not empty.
 Second Commit
+Commit after Clone
+Thrid
